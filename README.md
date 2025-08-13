@@ -1,4 +1,4 @@
-# Job Market Trends Analysis
+# Analytical Exploration of Hiring Trends in Data and AI Roles 
 
 This project analyzes **remote tech job market trends**, focusing on **Data Science** and **Machine Learning** roles using real-time job listings and historical posts. It was developed as the final project for Syracuse University's IST652 course.
 
